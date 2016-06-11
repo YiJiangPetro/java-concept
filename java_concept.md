@@ -111,7 +111,6 @@ Contents:
      + not compulsory to implement all methods
      + if want to add a new feature, simply implement in the abstract class and call it from subclass
    - interface
-     + only contain abstract methods
      + variable is by default `public final`, only has constants
      + a class can implement multiple interfaces
      + compulsory to implement all methods
